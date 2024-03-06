@@ -1,5 +1,5 @@
 from unittest.mock import Mock
-from Diplom_1.praktikum.ingredient import Ingredient
+from praktikum.ingredient import Ingredient
 import pytest
 
 

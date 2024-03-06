@@ -1,4 +1,4 @@
-from Diplom_1.praktikum.bun import Bun
+from praktikum.bun import Bun
 import pytest
 from unittest.mock import Mock
 
